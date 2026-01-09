@@ -1,13 +1,13 @@
-# 📊 Social Media Engagement Data Analysis  
+# Social Media Engagement Data Analysis  
 
 This project is based on the  
-[📂 Social Media Engagement Dataset (Kaggle)](https://www.kaggle.com/datasets/divyaraj2006/social-media-engagement).  
+[Social Media Engagement Dataset (Kaggle)](https://www.kaggle.com/datasets/divyaraj2006/social-media-engagement).  
 
 It explores **audience engagement across Facebook, Instagram, and Twitter in 2023**, analyzing how likes, comments, and shares vary with platform, post type, sentiment, and timing.  
 
 ---
 
-## 🌍 Overview  
+## Overview  
 
 The dataset captures the pulse of **viral social media trends**, including:  
 - Popular hashtags and content types  
@@ -16,13 +16,13 @@ The dataset captures the pulse of **viral social media trends**, including:
 - Regional & influencer-driven content  
 
 It is ideal for:  
-- 🔍 **Trend Analysis** – what makes content viral  
-- 💭 **Sentiment Modeling** – tone vs. engagement  
-- 📈 **Marketing Insights** – influencer and timing effects  
+- **Trend Analysis** – what makes content viral  
+- **Sentiment Modeling** – tone vs. engagement  
+- **Marketing Insights** – influencer and timing effects  
 
 ---
 
-## 🛠 Workflow  
+## Workflow  
 
 1. **Data Cleaning & Preparation**  
    - Removed missing values, standardized column names  
@@ -38,23 +38,23 @@ It is ideal for:
    - Built charts using **Python (Pandas · Seaborn · Matplotlib)**  
    - Each chart includes **descriptions explaining insights**  
 
-👉 Full analysis here: [📓 Jupyter Notebook](https://github.com/Avanith12/Data-Analysis-Social_media_engagement/blob/main/analysis_notebook.ipynb)  
+Full analysis here: [Jupyter Notebook](https://github.com/Avanith12/Data-Analysis-Social_media_engagement/blob/main/analysis_notebook.ipynb)  
 
 ---
 
-## 🎨 Color Palette Used  
+## Color Palette Used  
 
 These are the color palettes we used:  
-- 🌑 **Deep navy/black** for backgrounds  
-- 🌫 **Muted gray-blue** for text  
-- 💎 **Cyan-white** for headings  
-- 🌊 **Bright turquoise/teal** for highlights  
+- **Deep navy/black** for backgrounds  
+- **Muted gray-blue** for text  
+- **Cyan-white** for headings  
+- **Bright turquoise/teal** for highlights  
 
 ---
 
-## 👩‍💻 Team  
+## Team  
 
-Made with ❤️ by **Avanith K** ✨  
+Made by **Avanith K**  
 
 **Creator & Lead Developer**  
 - Avanith Kanamarlapudi  
