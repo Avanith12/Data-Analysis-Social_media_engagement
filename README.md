@@ -54,8 +54,12 @@ These are the color palettes we used:
 
 ## 👩‍💻 Team  
 
-Made with ❤️ by **AI Fantastic** ✨  
+Made with ❤️ by **Avanith K** ✨  
+
+**Creator & Lead Developer**  
 - Avanith Kanamarlapudi  
+
+**Team Members (Attended / Collaborated)**  
 - Rami Huu Nguyen  
 - Lakshmi Pranathi Vutla  
 - Ila Lama  
