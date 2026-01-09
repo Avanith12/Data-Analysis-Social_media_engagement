@@ -1,5 +1,7 @@
 # Social Media Engagement Data Analysis  
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 This project is based on the  
 [Social Media Engagement Dataset (Kaggle)](https://www.kaggle.com/datasets/divyaraj2006/social-media-engagement).  
 
@@ -68,5 +70,8 @@ Made by **Avanith K**
 
 ---
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
